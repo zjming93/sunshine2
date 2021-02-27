@@ -6,5 +6,5 @@ package com.sasa.ass;
  */
 public class Stydu {
 
-  123  abc
+  123  abc def
 }
